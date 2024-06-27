@@ -22,15 +22,8 @@ Before you begin, ensure you have met the following requirements:
 
 To get started, clone the repository to your local machine:
 
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-```
-
 Navigate to the project directory:
 
-```bash
-cd your-repo-name
-```
 ## Usage
 
 ### Data Cleaning
